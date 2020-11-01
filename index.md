@@ -47,6 +47,6 @@
 
 <h1> سایر حساب هاے ڪاربرے </h1>
 <ul>
-   <a href="https://zahra_ghaedrahmat.instagram.com/"> </a>
+   https://zahra_ghaedrahmat.instagram.com
 </ul>
 رزومه‌ی انگلیسی: <a href="https://zahra-ghaedrah.github.io/resume-zahra/">رزومه </a></div>
