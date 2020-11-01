@@ -20,5 +20,5 @@
 <br>
 سوابق کاری: مشغول کار در کلینیک زیبایی
 <br>
-</br>
+
 رزومه‌ی انگلیسی: <a href="https://zahra-ghaedrah.github.io/resume-zahra/">رزومه </a></div>
